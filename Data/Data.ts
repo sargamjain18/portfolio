@@ -35,43 +35,43 @@ export const projectData = [
 
 export const skillsData = [
   {
-    id: 1,
+    id: "1",
     title: "CSS",
     image: "/images/css.svg",
     percent: "95%",
   },
   {
-    id: 2,
+    id: "2",
     title: "HTML",
     image: "/images/html.svg",
     percent: "90%",
   },
   {
-    id: 3,
+    id: "3",
     title: "JavaScript",
     image: "/images/js.svg",
     percent: "85%",
   },
   {
-    id: 4,
+    id: "4",
     title: "Next.js",
     image: "/images/next.svg",
     percent: "85%",
   },
   {
-    id: 5,
+    id: "5",
     title: "Reactjs",
     image: "/images/react.svg",
     percent: "90%",
   },
   {
-    id: 6,
+    id: "6",
     title: "SQL",
     image: "/images/sql.png",
     percent: "70%",
   },
   {
-    id: 7,
+    id: "7",
     title: "Tailwind Css",
     image: "/images/tailwind-css.svg",
     percent: "85%",
