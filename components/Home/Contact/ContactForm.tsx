@@ -9,11 +9,12 @@ const ContactForm = () => {
   return (
     <div className="bg-[#140c1c] rounded-lg p-4 sm:p-10">
       <h1 className="text-bg text-2xl md:text-3xl lg:text-[2.5rem] font-bold">
-        Let's work together!
+        Let&apos;s work together!
       </h1>
       <p className="text-gray-200 mt-3 text-xs lg:text-base md:text-sm ">
         Looking to build a responsive website, fix issues, or improve
-        performance? I’m here to help. Drop your message and let’s talk!
+        performance? I&apos;m here to help. Drop your message and let&apos;s
+        talk!
       </p>
       <form className="mt-8 block w-full overflow-hidden">
         <div className="flex fle-col md:flex-row items-center justify-between gap-4">
